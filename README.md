@@ -12,3 +12,10 @@ Step-by-step guide on how I built my home lab with Proxmox and containers.
 - [Windows Network Drive Mapping](./windows-network-drive.md) — connecting to TrueNAS shares from Windows
 - [Windows Server Core VM](./containers/windows-server-vm.md) - VM creation, setup guide
 - [Windows 11 VM](./containers/windows11-client-vm.md) - VM creation, domain-join guide
+
+## Archive
+
+Things I built, tested, and later removed or replaced — kept for reference.
+
+-[WireGuard VPN](./archive/wireguard-vpn.md) - LXC creation, setup guide
+-[TrueNAS SCALE](./archive/truenas-vm/md) - VM creation, setup guide
