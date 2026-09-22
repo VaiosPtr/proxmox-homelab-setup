@@ -10,3 +10,4 @@ Step-by-step guide on how I built my home lab with Proxmox and containers.
 - [AdGuard Home](./containers/adguard-home-lxc.md) - LXC creation, installation-setup guide
 - [Adguard Home Failover](./containers/adguard-home-failover-lxc.md) - LXC Cloning, setup guide
 - [Windows Network Drive Mapping](./windows-network-drive.md) — connecting to TrueNAS shares from Windows
+- [Windows Server Core VM](./containers/windows-server-vm) - VM creation, setup guide
